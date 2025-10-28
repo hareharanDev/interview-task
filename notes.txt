@@ -1,0 +1,26 @@
+Color Codes(HEX):
+Background: 
+    1. #9B2A83
+    2. #CC215A
+    3. #CC2323
+
+Button:
+    1. #CC215A
+    2. #CC2323
+
+Card:
+    1. #F5FDFF
+    2. #BFF6FF
+
+Text:
+    1. #FF1A00
+
+1. Check if all the fields are filled (In both Forms)
+2. Password must be minimum 6 character,2 special characters, 1 Capital-Casing (In both Forms) 
+3. If clicked on social Icons an alert should popup.  (In both Forms)
+    a. If clicked on Google Icon - "Social Login Clicked: Google"
+    b. If clicked on Facebook Icon - "Social Login Clicked: Facebook"
+    c. If clicked on LinkedIn Icon - "Social Login Clicked: LinkedIn"
+4. You'll have to integrate API to the login Form(API Given Below).
+Use GET Method to fetch Details:
+"https://hareharanphp.shop.digitalwording.co.in/api.json"
