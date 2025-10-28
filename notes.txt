@@ -23,4 +23,5 @@ Text:
     c. If clicked on LinkedIn Icon - "Social Login Clicked: LinkedIn"
 4. You'll have to integrate API to the login Form(API Given Below).
 Use GET Method to fetch Details:
-"https://hareharanphp.shop.digitalwording.co.in/api.json"
+
+"https://hareharanphp.shop.digitalwording.co.in/api-file.php"
